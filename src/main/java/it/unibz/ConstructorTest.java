@@ -1,5 +1,10 @@
 package it.unibz;
 
+/**
+ *
+ * @author Philipp Neugebauer
+ *
+ */
 public class ConstructorTest {
 
 	static {
